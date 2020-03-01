@@ -1,0 +1,9 @@
+HQ9+/H9+/HQ9++ Interpreter
+==========================
+
+After building, three executables will be in the bin folder, representing
+an interpreter each. This is a very basic and simple implementation of
+interpreters for these languages.
+Build-time dependencies are clang, and GNU make. To build the project just
+issue the 'make' command while in the project directory.
+
